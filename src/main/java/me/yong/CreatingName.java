@@ -3,7 +3,7 @@ package me.yong;
 
 import java.util.Random;
 
-public class Main {
+public class CreatingName {
 
     public static String createRandomName() {
         final String[] part1 = {"기철초풍", "멋있는", "재미있는"};
