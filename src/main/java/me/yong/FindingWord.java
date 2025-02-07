@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class FindWord {
+public class FindingWord {
 
     private static final List<String> words = List.of("airplane", "apple", "arm", "bakery", "banana", "bank", "bean",
             "belt", "bicycle", "biography", "blackboard", "boat", "bowl", "broccoli", "bus", "car", "carrot", "chair",
